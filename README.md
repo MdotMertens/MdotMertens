@@ -2,7 +2,7 @@
   - 👨🏻‍💼 currently employed but I want to relocate
   - 📨 shoot a mail: maurice@mdotmertens.dev
 - 🐧 I am a Linux and (Neo)Vim fan at heart (i use arch, btw)
-- 📔 I like to design and implement software and get into the nitty gritty details of everything.
+- 📔 I like to design and implement microservices and get into the nitty gritty details of everything.
   - 🛠 My tools of choice are:
     - Java with Spring Boot and it's ecosystem
     - Python with flask
