@@ -1,4 +1,5 @@
 - 👋 Hey, I am Maurice Mertens
+  - 👨🏻‍💼 currently employed but I want to relocate
 - 🐧 I am a Linux and (Neo)Vim fan at heart (i use arch, btw)
 - 📔 I like to design and implement software and get into the nitty gritty details of everything.
   - 🛠 My tools of choice are:
