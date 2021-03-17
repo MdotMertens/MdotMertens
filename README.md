@@ -4,7 +4,7 @@
   - 🛠 My tools of choice are:
     - Java with Spring Boot and it's ecosystem
     - Python with flask
-    - Docker, TDD, Scrum
+    - Sometimes HTML, JavaScript and Vue but I am my home is the backend.
 - 📫 If you got any questions, shoot a mail: maurice@mdotmertens.dev
 - 🏅 My goals for 2021:
   - 💻 Start contributing more to OSS
