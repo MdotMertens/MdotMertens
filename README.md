@@ -6,7 +6,6 @@
   - 🛠 My tools of choice are:
     - Javascript with Node.js
     - Python with flask
-    - Sometimes HTML, JavaScript and Vue but my home is the backend.
 - 📫 If you got any questions also shoot a mail: maurice@mdotmertens.dev
 - 🏅 My goals for 2021:
   - 💻 Start contributing more to OSS
