@@ -4,7 +4,7 @@
 - 🐧 I am a Linux and (Neo)Vim fan at heart (i use arch, btw)
 - 📔 I like to design and implement microservices and get into the nitty gritty details of everything.
   - 🛠 My tools of choice are:
-    - Java with Spring Boot and it's ecosystem
+    - Javascript with Node.js
     - Python with flask
     - Sometimes HTML, JavaScript and Vue but my home is the backend.
 - 📫 If you got any questions also shoot a mail: maurice@mdotmertens.dev
