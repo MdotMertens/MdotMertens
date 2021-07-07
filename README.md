@@ -1,4 +1,4 @@
-- 👋 Hey, I am Maurice Mertens
+- 👋 Hey, I am Mauricé Mertens
   - 👨🏻‍💼 currently employed but I want to relocate
   - 📨 shoot a mail: maurice@mdotmertens.dev
 - 🐧 I am a Linux and (Neo)Vim fan at heart (i use arch, btw)
